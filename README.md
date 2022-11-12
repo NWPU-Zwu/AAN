@@ -1,7 +1,5 @@
-# AAN# Implementation of F3-Net​ : Frequency in Face Forgery Network
+# Implementation of  The Attention Erasing (AE) : AAN-Face: Attention Augmented Networks for Face Recognition
 
 ## Note
 
-This is a personal implementation of F3-Net , so there are lots of difference compared to the official version. To learn more details about F3-Net, please check the [paper](https://arxiv.org/abs/2007.09355) here.
-
-
+This is a personal implementation of The Attention Erasing (AE) , so there are lots of difference compared to the official version. To learn more details about AE, please check the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9527125) here.
